@@ -33,4 +33,9 @@ Foco em Chatbots e Campanhas Personalizadas: Alta automação e personalização
 Automação de E-mails e Respostas Rápidas: Automação moderada.
 Investir em Personalização e Análise de Dados: Baixa automação.
 
+![image](https://github.com/user-attachments/assets/ed9d914f-d919-4cf7-9497-225c44e1374d)
+![image](https://github.com/user-attachments/assets/0f4b035d-503f-4a39-b01f-2d55fca4b38e)
+
+
+
 
