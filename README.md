@@ -1,18 +1,16 @@
-Descrição do Projeto
-O AI-Marketing-Strategist é um projeto desenvolvido para explorar e otimizar estratégias de marketing utilizando Inteligência Artificial. Ele permite simular cenários baseados em dados fictícios, prever métricas de desempenho, e recomendar estratégias práticas. O foco principal é analisar o impacto de variáveis como automação, personalização e engajamento na geração de ROI (Retorno sobre Investimento).
+Project Description
+The AI-Marketing-Strategist is a project developed to explore and optimize marketing strategies using Artificial Intelligence. It allows the simulation of scenarios based on fictional data, predicts performance metrics, and recommends practical strategies. The main focus is to analyze the impact of variables such as automation, personalization, and engagement on generating ROI (Return on Investment).
 
-Este projeto combina simulação de dados, aprendizado de máquina e análise visual para fornecer insights acionáveis para profissionais de marketing.
+This project combines data simulation, machine learning, and visual analytics to provide actionable insights for marketing professionals.
 
-Funcionalidades
-Simulação de Dados: Gera cenários fictícios com variáveis de marketing, como engajamento, tempo de resposta e taxa de conversão.
-Análise Exploratória: Visualizações intuitivas para comparar canais de comunicação em termos de ROI.
-Modelagem Preditiva: Usa Gradient Boosting Regressor para prever o ROI com base nos dados simulados.
-Recomendações Estratégicas: Fornece recomendações personalizadas para cada cenário.
-Exportação de Resultados: Salva os dados analisados e recomendações em um arquivo Excel.
+Features
 
-
-Pré-requisitos
-
+Data Simulation: Generates fictional scenarios with marketing variables such as engagement, response time, and conversion rate.
+Exploratory Analysis: Intuitive visualizations to compare communication channels in terms of ROI.
+Predictive Modeling: Uses Gradient Boosting Regressor to predict ROI based on simulated data.
+Strategic Recommendations: Provides personalized recommendations for each scenario.
+Results Export: Saves analyzed data and recommendations in an Excel file.
+Prerequisites
 
 pandas
 numpy
@@ -20,18 +18,16 @@ matplotlib
 seaborn
 scikit-learn
 openpyxl
+Example Results
 
-Exemplo de Resultados
-Gráfico: Impacto da IA nos Diferentes Canais de Comunicação
+Graph: Impact of AI on Different Communication Channels
+Graph: Importance of Variables in the Model
+Strategic Recommendations
+Examples of recommendations generated for different levels of automation and personalization:
 
-Gráfico: Importância das Variáveis no Modelo
-
-Recomendações Estratégicas
-Exemplo de recomendações geradas para diferentes níveis de automação e personalização:
-
-Foco em Chatbots e Campanhas Personalizadas: Alta automação e personalização.
-Automação de E-mails e Respostas Rápidas: Automação moderada.
-Investir em Personalização e Análise de Dados: Baixa automação.
+Focus on Chatbots and Personalized Campaigns: High automation and personalization.
+Email Automation and Quick Responses: Moderate automation.
+Invest in Personalization and Data Analysis: Low automation.
 
 ![image](https://github.com/user-attachments/assets/ed9d914f-d919-4cf7-9497-225c44e1374d)
 ![image](https://github.com/user-attachments/assets/0f4b035d-503f-4a39-b01f-2d55fca4b38e)
